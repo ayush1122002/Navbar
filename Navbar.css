@@ -20,7 +20,7 @@
   }
   
   .nav-links {
-    /* list-style: none; */
+     list-style: none; 
     display: flex;
     gap: 20px;
   }
@@ -30,7 +30,7 @@
   }
   
   .nav-links a {
-    /* text-decoration: none; */
+    text-decoration: none; 
     color: rgb(7, 6, 6);
     font-size: 18px;
     transition: 0.3s;
